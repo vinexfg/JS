@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container_principal{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+}
+.container{
+    background-color: rgb(32, 125, 202);
+    height: 25rem;
+    width: 50rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: .5625rem;
+    margin: 5rem;
+}
+
+.container_2{
+    display: flex;
+    background-color: brown;
+    justify-content: center;
+    align-items: center;
+    height: 6.25rem;
+    border-radius: 12px;
+}
+
+
+.final{
+    background-color: rgb(124, 160, 246);
+    height: 12.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+}
