@@ -19,4 +19,4 @@ switch (dia) {
         break;
     default:
         texto_2.innerHTML('')
-}       
+}       a
